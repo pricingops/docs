@@ -1,6 +1,6 @@
-# Docus Starter
+# Pricing Ops Docs
 
-Starter template for [Docus](https://docus.dev).
+Built using [Docus](https://docus.dev).
 
 ## Clone
 
